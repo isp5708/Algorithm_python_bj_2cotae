@@ -1,1 +1,1 @@
-# Algorithm_python_bj_2cotae
+# 이것이 코딩테스트다, 백준, 알고리즘 문제풀이
